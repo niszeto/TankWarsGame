@@ -1,0 +1,2 @@
+Main-Class: tankgame.Launcher
+Main-Class: tankgame.Launcher
